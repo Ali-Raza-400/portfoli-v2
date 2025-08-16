@@ -1,0 +1,602 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.png",
+      "title": "Edward <br /> Davis",
+      "subTitle": "Hello, I’m",
+      "designation": "Visual Designer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.png",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.png",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Ali Raza</span>",
+       "text": "I am a FullStack developer. I can provide clean code and pixel perfect design. <br>I also make websites more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.png",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/hero-img.png",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Ali Raza",
+    "subtitle": "Full Stack developer",
+    "text": "I am a FullStack developer. I can provide clean code and pixel perfect design.I also make websites more & more interactive with web animations.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "Jan 12, 1999"
+      },
+      {
+        "title": "Phone",
+        "info": "+92 3024089860"
+      },
+      {
+        "title": "Email",
+        "info": "codewithdevelopement@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Lahore Pubjab Pakistan"
+      },
+      {
+        "title": "Language",
+        "info": "English, Urdu , Punjabi"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+"serviceData": {
+  "services": [
+    {
+      "imgLink": "./images/icon/icon1.png",
+      "title": "Frontend Development",
+      "text": "Building responsive and interactive user interfaces using React, Next.js, and modern JavaScript frameworks.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "imgLink": "./images/icon/icon2.png",
+      "title": "Backend Development",
+      "text": "Creating secure and scalable APIs with Node.js, Express, and NestJS for smooth server-side operations.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "imgLink": "./images/icon/icon3.png",
+      "title": "Database Management",
+      "text": "Designing and managing databases with MongoDB, PostgreSQL, and MySQL for efficient data storage.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "./images/icon/icon4.png",
+      "title": "API Integration",
+      "text": "Integrating third-party APIs and services like Stripe, OAuth, and cloud platforms to enhance functionality.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "imgLink": "./images/icon/icon5.png",
+      "title": "Real-time Applications",
+      "text": "Developing chat apps, notifications, and live updates using Socket.io and WebSockets.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "imgLink": "./images/icon/icon6.png",
+      "title": "Deployment & DevOps",
+      "text": "Deploying applications on AWS, Azure, and Docker with CI/CD pipelines for smooth delivery.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
+},
+
+ "skillData": {
+  "title": "All the skills that I have in FullStack development are mentioned.",
+  "text": "As a FullStack developer, I specialize in building dynamic and scalable applications, from frontend user interfaces to backend APIs and databases. I focus on clean code, performance optimization, and modern development practices.",
+  "skills": [
+    {
+      "title": "React / Next.js",
+      "progress": "90%",  
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "title": "Node.js / Express.js",
+      "progress": "85%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "title": "MongoDB / PostgreSQL",
+      "progress": "80%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "title": "JavaScript / TypeScript",
+      "progress": "95%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "title": "HTML / CSS / Tailwind",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "title": "AWS / Docker / CI-CD",
+      "progress": "75%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
+}
+,
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.png",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+   "informations": [
+  {
+    "imgLink": "./images/blog/blog1.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "Top FullStack Development Trends in 2023",
+    "href": "/blog/blog-details"
+  },
+  {
+    "imgLink": "./images/blog/blog2.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "Why MERN Stack is the Future of Web Development",
+    "href": "/blog/blog-details"
+  },
+  {
+    "imgLink": "./images/blog/blog3.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "Scaling Applications with Node.js and MongoDB",
+    "href": "/blog/blog-details"
+  },
+  {
+    "imgLink": "./images/blog/blog1.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "Best Practices for Building Responsive Frontends",
+    "href": "/blog/blog-details"
+  },
+  {
+    "imgLink": "./images/blog/blog2.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "Integrating Stripe Payments in a MERN Application",
+    "href": "/blog/blog-details"
+  },
+  {
+    "imgLink": "./images/blog/blog3.jpg",
+    "designation": "Admin",
+    "date": "07-03-2023",
+    "title": "How to Use Socket.io for Real-time Applications",
+    "href": "/blog/blog-details"
+  }
+]
+
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+   "informations": [
+  {
+    "imgLink": "./images/client/client1.png",
+    "title": "Richard Miles",
+    "designation": "CEO, TechVision",
+    "text": "Ali delivered a flawless full-stack solution for our platform. His expertise in React and Node.js ensured smooth performance and scalability."
+  },
+  {
+    "imgLink": "./images/client/client2.png",
+    "title": "Vesta Shufelt",
+    "designation": "Product Manager, Cloudify",
+    "text": "Exceptional frontend work! The UI Ali built was responsive, pixel-perfect, and optimized for performance. Highly recommended."
+  },
+  {
+    "imgLink": "./images/client/client3.png",
+    "title": "Joseph Alves",
+    "designation": "CTO, HealthSync",
+    "text": "Ali created secure backend APIs with Express.js and MongoDB, integrating payments and authentication seamlessly. Outstanding job!"
+  },
+  {
+    "imgLink": "./images/client/client1.png",
+    "title": "Sarah Johnson",
+    "designation": "Founder, EduTech Labs",
+    "text": "We needed a real-time chat system, and Ali implemented it flawlessly with Socket.io. The experience exceeded our expectations."
+  },
+  {
+    "imgLink": "./images/client/client2.png",
+    "title": "Michael Roberts",
+    "designation": "Operations Head, RentIt Homes",
+    "text": "Ali handled our complex API integrations and frontend with professionalism. The project was delivered on time with top quality."
+  },
+  {
+    "imgLink": "./images/client/client3.png",
+    "title": "Emily Carter",
+    "designation": "Lead Engineer, ShopSphere",
+    "text": "Ali built our e-commerce system with Stripe integration, ensuring smooth checkout and secure transactions. Brilliant full-stack developer!"
+  }
+]
+
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+"experience": [
+  {
+    "title": "MERN Stack Developer",
+    "duration": "Feb 2024 - Present",
+    "subTitle": "Xeven Solutions",
+    "text": "Worked on multiple projects including Awfera LMS (React.js + AntD + Redux Toolkit), MedicalAI (Next.js + Express.js + Socket.io), FamilyDoc (Stripe payments, chat module), Buch International Hospital (React.js + MUI), and CloudSol (AI-powered chat with ShadCN + TypeScript)."
+  },
+  {
+    "title": "MERN Stack Developer",
+    "duration": "Sep 2022 - Feb 2024",
+    "subTitle": "Tkturners",
+    "text": "Developed Stack Digital Card (Next.js + Express.js + CraftJS + Stripe + Google OAuth + PWA), RentIt Homes (Next.js + Strapi + Redux Async), OverRell LLC (MUI + Redux), and Raza-Mart E-commerce (MERN + Stripe + JWT Authentication)."
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "duration": "Jun 2021 - Aug 2022",
+    "subTitle": "Main Complex DHA Phase 6 TMS (Tea Bar Management System)",
+    "text": "Built frontend with HTML, CSS, Bootstrap, and JavaScript. Implemented authentication and backend operations using PHP (CodeIgniter MVC) and MySQL. Delivered a secure, scalable, and interactive system."
+  }
+],
+    "educationTitle": "Education",
+   "education": [
+  {
+    "title": "BS Computer Science",
+    "duration": "Sep 2018 - Jun 2022",
+    "subTitle": "Lahore Garrison University, Pakistan",
+    "text": "Studied core computer science subjects including software engineering, database systems, algorithms, and web technologies. Graduated with hands-on project experience in full-stack development."
+  },
+  {
+    "title": "Full Stack Website Development (Certificate)",
+    "duration": "Jan 2020",
+    "subTitle": "Certification",
+    "text": "Learned complete web development lifecycle covering frontend, backend, and deployment."
+  },
+  {
+    "title": "Mobile Application Development with React Native (Certificate)",
+    "duration": "Jun 2021",
+    "subTitle": "Certification",
+    "text": "Built cross-platform mobile applications with React Native, integrating APIs and state management."
+  }
+]
+  },
+ "contactData": {
+  "formTitle": "Let’s Work Together",
+  "title": "Contact Info",
+  "subTitle": "Visit my social profiles and get connected",
+  "text": "Feel free to reach out for collaborations or project discussions. You can contact me via email, phone, or connect on LinkedIn and GitHub."
+}
+,
+  "socialData": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "https://x.com/AliRaza83113279"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ali-wb/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "https://www.facebook.com/ali.raza.670506/"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://x.com/AliRaza83113279"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/Ali-Raza-400"
+    }
+  ]
+}
